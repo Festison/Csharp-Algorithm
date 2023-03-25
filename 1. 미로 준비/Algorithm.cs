@@ -13,7 +13,7 @@ namespace Algorithm
 
 			Console.CursorVisible = false;
 
-			const int WAIT_TICK = 1000 / 30;			
+			const int WAIT_TICK = 1000 / 30;
 
 			int lastTick = 0;
 			while (true)
